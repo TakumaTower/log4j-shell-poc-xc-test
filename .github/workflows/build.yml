@@ -62,8 +62,8 @@ jobs:
             # --artifact-path "my-image-name:${{ env.tag-version }}" 
             # OR the path to the root folder of your project. I.e my-repo/my-app 
             # --artifact-path "${{env.MY_APP_ROOT}}"
-  
-# More name:           
+   
+# More name: test           
 # build:
 #    runs-on: ubuntu-latest
 #   steps:
