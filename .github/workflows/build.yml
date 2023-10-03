@@ -36,7 +36,7 @@ jobs:
             # OR the path to the root folder of your project. I.e my-repo/my-app 
             # --artifact-path "${{env.MY_APP_ROOT}}"
    
-# More name: test           
+# More name: test  2    
 # build:
 #    runs-on: ubuntu-latest
 #   steps:
